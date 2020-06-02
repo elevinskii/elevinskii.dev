@@ -1,0 +1,19 @@
+- label: Linkedin
+  image: assets/img/icons/linkedin.svg
+  link: https://www.linkedin.com/in/elevinskii
+
+- label: Twitter
+  image: assets/img/icons/twitter.svg
+  link: https://twitter.com/elevinskii
+
+- label: Telegram
+  image: assets/img/icons/telegram.svg
+  link: https://t.me/elevinskii
+
+- label: Github
+  image: assets/img/icons/github.svg
+  link: https://github.com/elevinskii
+
+- label: Mail
+  image: assets/img/icons/gmail.svg
+  link: "mailto: el@ideal-code.ru"

@@ -9,6 +9,22 @@ header, section, footer {
     position: static;
 }
 
+header {
+    .icons {
+        margin-bottom: 20px;
+        line-height: 0;
+
+        a {
+            display: inline-block;
+            margin-right: 10px;
+
+            img {
+                width: 24px;
+            }
+        }
+    }
+}
+
 section {
     border: 1px solid #e5e5e5;
     border-width: 1px 0;
